@@ -1,0 +1,34 @@
+Please enter x: 3
+Please enter n: 10
+88573
+The execution time is : 4.8535e-05
+88573
+The execution time is : 5.326e-06
+
+Please enter x: 3
+Please enter n: 100
+13969809805403233721
+The execution time is : 9.0129e-05
+13969809805403233721
+The execution time is : 8.173e-06
+
+Please enter x: 3
+Please enter n: 1000
+9304961545187657905
+The execution time is : 0.0038788
+9304961545187657905
+The execution time is : 1.4772e-05
+
+Please enter x: 3
+Please enter n: 10000
+10395312455573013729
+The execution time is : 0.0842687
+10395312455573013729
+The execution time is : 2.0619e-05
+
+Please enter x: 3
+Please enter n: 100000
+3725597458245626049
+The execution time is : 7.99558
+3725597458245626049
+The execution time is : 0.000211358
